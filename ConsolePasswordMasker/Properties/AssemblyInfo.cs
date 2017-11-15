@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ConsolePasswordMasker")]
-[assembly: AssemblyDescription("Mask input from console with defined character")]
+[assembly: AssemblyDescription("Console.ReadKey() password masker. Filters and masks every char from console input with defined chars or custom checker.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Mirza Ghulam Rasyid")]
 [assembly: AssemblyProduct("ConsolePasswordMasker")]
