@@ -71,6 +71,7 @@ namespace ConsolePasswordMasker.Core
             StringBuilder sb = new StringBuilder();
             ConsoleKeyInfo consoleKey;
             bool exit = false;
+            Console.Clear();
             Console.Write("Login: ");
             do
             {
@@ -117,6 +118,7 @@ namespace ConsolePasswordMasker.Core
             StringBuilder sb = new StringBuilder();
             ConsoleKeyInfo consoleKey;
             bool exit = false;
+            Console.Clear();
             Console.Write(loginText);
             
             do
@@ -166,6 +168,7 @@ namespace ConsolePasswordMasker.Core
             StringBuilder sb = new StringBuilder();
             ConsoleKeyInfo consoleKey;
             bool exit = false;
+            Console.Clear();
             Console.Write(loginText);
             do
             {
@@ -216,6 +219,7 @@ namespace ConsolePasswordMasker.Core
             ConsoleKeyInfo consoleKey;
             bool exit = false;
             bool isCancelled = false;
+            Console.Clear();
             Console.Write(loginText);
             do
             {
@@ -280,6 +284,7 @@ namespace ConsolePasswordMasker.Core
             ConsoleKeyInfo consoleKey;
             bool exit = false;
             bool isCancelled = false;
+            Console.Clear();
             Console.Write(loginText);
             do
             {
