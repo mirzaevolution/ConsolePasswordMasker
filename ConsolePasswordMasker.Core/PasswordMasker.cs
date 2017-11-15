@@ -61,7 +61,7 @@ namespace ConsolePasswordMasker.Core
             }
         }
         /// <summary>
-        /// Check every character and mask them with '*' asterik and returns the result when
+        /// Check every character and mask them with '*' asterisk and returns the result when
         /// user hits 'enter' key. By default this method does not cancel input when it receives 'escape' character. 
         /// This method only filters chars from DefinedChars property.
         /// </summary>
@@ -105,7 +105,7 @@ namespace ConsolePasswordMasker.Core
         }
 
         /// <summary>
-        /// Check every character and mask them with '*' asterik and returns the result when
+        /// Check every character and mask them with '*' asterisk and returns the result when
         /// user hits 'enter' key. By default this method does not cancel input when it receives 'escape' character. 
         /// This method only filters chars from DefinedChars property.
         /// </summary>
