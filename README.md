@@ -3,7 +3,7 @@
 
 ![image1](https://raw.githubusercontent.com/mirzaevolution/ConsolePasswordMasker/master/Capture.PNG)
 
-**Console Password Masker** is a lightweight library for **.NET Framework 4.0+** and **.NET Core 2.0** that handles password masking for console applications. It works by replacing every char that users type into asterisk * or custom char that can be set by yourself. Not only masking chars into specified char replacement, it also supports char filtering that can filter every char that meets the given filter criteria. 
+**Console Password Masker** is a lightweight library for **.NET Framework 4.0+** and **.NET Core 2.0** that handles password masking for console application. It works by replacing every char that users type into asterisk * or custom char that can be set by yourself. Not only masking chars into specified char replacement, it also supports char filtering that can filter every char that meets the given filter criteria. 
 
 ```csharp
 char[] definedChars =
